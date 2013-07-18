@@ -2,10 +2,10 @@
 
 ## Feature list
 
-* 1 = Highest priority, 4 = Lowest priority, * = I don't care
-* 1 means "First release must include this feature"
-* 4 means "This is an idea for a future version of the product"
-* Syntax: (Priority hellerbarde / hat-guy) <Feature Description>
+    1 = Highest priority, 4 = Lowest priority, * = I don't care
+    1 means "First release must include this feature"
+    4 means "This is an idea for a future version of the product"
+    Syntax: (Priority hellerbarde / hat-guy) <Feature Description>
 
 
 * (1/1) Standard controls
