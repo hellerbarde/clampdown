@@ -1,0 +1,11 @@
+{% extends "template.html" %}
+{% block content %}
+<div id="controls">
+    <a href="/control/prev">prev</a>
+    <a href="/control/play">play</a>
+    <a href="/control/pause">pause</a>
+    <a href="/control/stop">stop</a>
+    <a href="/control/next">next</a>
+</div>
+<h3>You used "{{action}}"</h3>
+{% endblock %}
